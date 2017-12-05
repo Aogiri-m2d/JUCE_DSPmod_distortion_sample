@@ -15,7 +15,6 @@
   <MAINGROUP id="yhxV1v" name="StaticClipperVST">
     <GROUP id="{AA41BC8E-55C0-BE64-4B7A-9ECC94599BB6}" name="Source">
       <FILE id="ugV6mM" name="Average.h" compile="0" resource="0" file="Source/Average.h"/>
-      <FILE id="iDvplJ" name="Monitoring.h" compile="0" resource="0" file="Source/Monitoring.h"/>
       <FILE id="NzD1om" name="FbFilter.h" compile="0" resource="0" file="Source/FbFilter.h"/>
       <FILE id="porDZM" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
